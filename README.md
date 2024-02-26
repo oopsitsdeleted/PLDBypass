@@ -1,11 +1,11 @@
 
 # PLD Bypass
-*updated 20/2/2024*
+*updated 26/2/2024*
 
 A guide on how to bypass restrictions on Singapore Personal Learning Devices (PLD) for Secondary schools. This only works for iPads and not Chromebooks or Microsoft Surface devices. (Though for Surface you can use a windows2go drive or any other bootable OS!)
 
 ## Note
-I'm not responsible if you get your ass beat. Don't get caught. If they do a class where they check your iPads, power it off and say you have no battery, or just don't bring it at all.
+I'm not responsible if you get your ass beaten. Don't get caught. If they do a class where they check your iPads, power it off and say you have no battery, or just don't bring it at all.
 
 This process factory resets your iPad, meaning everything you have on there will be gone. You can of course back your files up if you want to.
 
