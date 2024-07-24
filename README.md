@@ -41,46 +41,47 @@ A guide on bypassing MDM and all other restrictions on Singapore Secondary Schoo
 	
 	For an iPad without a home button, press and quickly release the volume button closest to the power button. Press and quickly release the volume button furthest from the top button. Press and hold the top button.
 	
-	![](https://github.com/oopsitsdeleted/PLDBypass/blob/main/Assets/recovery-mode-ipad-face-id-ipad-mini-animation.gif?raw=true 1-1.png?raw=true)
+	![](https://github.com/oopsitsdeleted/PLDBypass/blob/main/Assets/recovery-mode-ipad-face-id-ipad-mini-animation.gif?raw=true)
 	
 	For iPads with a home button, press and hold both the Home and power button at the same time
 	![](https://github.com/oopsitsdeleted/PLDBypass/blob/main/Assets/ipad-home-button-force-restart.png?raw=true?raw=true)
 	
 	Keep holding the button (or buttons) until you see the recovery mode screen:
 	![](https://github.com/oopsitsdeleted/PLDBypass/blob/main/Assets/recovery-mode-ipad-pro-face-id.png?raw=true)
-2. Finder should open with a popup, press cancel.
+
+3. Finder should open with a popup, press cancel.
 
 	![](https://github.com/oopsitsdeleted/PLDBypass/blob/main/Assets/Problem%20with%20this%20iPad.png?raw=true)
 	
 
-3. Hold down Option (Alt on Windows keyboards) and click Restore. Select the IPSW file you downloaded.
+4. Hold down Option (Alt on Windows keyboards) and click Restore. Select the IPSW file you downloaded.
 
 	![](https://github.com/oopsitsdeleted/PLDBypass/blob/main/Assets/iPad%20Finder%20page.png?raw=true)
 	
 	![](https://github.com/oopsitsdeleted/PLDBypass/blob/main/Assets/File%20Picker.png?raw=true)
 
-4. Wait. Restoring takes a while.
+5. Wait. Restoring takes a while.
 
 	![](https://github.com/oopsitsdeleted/PLDBypass/blob/main/Assets/Restoring.png?raw=true)
 
-5. Close the successfull iPad restore popup, leave it plugged in.
+6. Close the successfull iPad restore popup, leave it plugged in.
 	
 	![](https://github.com/oopsitsdeleted/PLDBypass/blob/main/Assets/Successfull%20restore.png?raw=true)
 	
 
-6. Go into iPad in the sidebar, if it's not there, wait. Wait for it to activate.
+7. Go into iPad in the sidebar, if it's not there, wait. Wait for it to activate.
 
 	![](https://github.com/oopsitsdeleted/PLDBypass/blob/main/Assets/iPad%20Activation.png?raw=true)
 	
 	![](https://github.com/oopsitsdeleted/PLDBypass/blob/main/Assets/iPad%20Activated.png?raw=true)
 
-7. Open MDMPatcher Universal and click patch. Unplug your iPad after there's a success popup.
+8. Open MDMPatcher Universal and click patch. Unplug your iPad after there's a success popup.
 	
 	![](https://github.com/oopsitsdeleted/PLDBypass/blob/main/Assets/MDMPatcher.png?raw=true)
 	
 	![](https://github.com/oopsitsdeleted/PLDBypass/blob/main/Assets/MDMPatcher%20success.png?raw=true)
 
-8. Setup your iPad.
+9. Setup your iPad.
 
 ## Post-requisites
 1. Install apps for school, such as:
